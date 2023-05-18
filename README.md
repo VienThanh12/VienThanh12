@@ -25,8 +25,9 @@
 ## 🖥️ Workspace Setup
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-<h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+
+## 📈 Stats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vienthanh12&label=Profile%20views&color=0e75b6&style=flat" alt="vienthanh12" /> </p>
 
