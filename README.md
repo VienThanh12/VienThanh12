@@ -4,7 +4,7 @@
 🎓 I am Kevin, a fresher
 ## 🏅 Achievements
 - 🤝 **Consolation prize The Olympiad In Informatics of the Northern Coast of Vietnam (2021)**
-- 🥈 🤝 **Silver medal, Consolation prize The Olympiad In Informatics in Central Highlands of Vietnam (2021, 2022)*
+- 🥈 🤝 **Silver medal, Consolation prize The Olympiad In Informatics in Central Highlands of Vietnam (2021, 2022)**
 - 🥇 **First Prize City excellent student (2022)**
 - 🥈 **Second Prize City information technology competition (2020, 2021, 2022)**
 
