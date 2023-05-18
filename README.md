@@ -1,6 +1,8 @@
 ### Welcome to my GitHub profile! 👋
 🚀 About Me
+
 🎓 I am Kevin, a sophomore. Here, I embark on an exciting journey as I pursue my passion for computer science. 
+
 📚 Through my projects, code repositories, and collaborations, I hope to demonstrate my proficiency in various programming languages, frameworks, and tools. 
 
 ## 🏅 Achievements
