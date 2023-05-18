@@ -13,3 +13,11 @@
 
 ## ⭐ Activities and societies: 
 -   🥉 **Third Prize** Football with my teammates (A5 & B2 High School level)
+
+## 🛠️ Skills 
+
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C/C++]([https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/-C%2FC%2B%2B-blue))
+
+### Front-End Development
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
