@@ -5,6 +5,10 @@
 
 📚 Through my projects, code repositories, and collaborations, I hope to demonstrate my proficiency in various programming languages, frameworks, and tools. 
 
+👨‍💻 Competition Programming
+
+I've been doing Competition Programming for about 4 years now, and I can confidently say that I've got a solid grasp on Algorithms and Data Structures. But now I've decided to dive into web development and explore a whole new world of coding! Time to gain some new insights and rock the web!
+
 ## 🏅 Achievements
 - 🤝 **Consolation prize** The Olympiad In Informatics of the Northern Coast of Vietnam (2021)
 - 🥈 🤝 **Silver medal, Consolation prize** The Olympiad In Informatics in Central Highlands of Vietnam (2021, 2022)
@@ -14,19 +18,6 @@
 ## ⭐ Activities and societies: 
 -   🥉 **Third Prize** Football with my teammates (A5 & B2 High School level)
 
-## 🛠️ Skills 
-
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-blue)
-### Front-End Development
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-## 🖥️ Workspace Setup
-![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
-
 ## 📈 Stats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vienthanh12&label=Profile%20views&color=0e75b6&style=flat" alt="vienthanh12" /> </p>
@@ -34,9 +25,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vienthanh12" alt="vienthanh12" /></a> </p>
 </a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hakevin10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hakevin10" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
