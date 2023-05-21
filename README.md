@@ -34,4 +34,5 @@ In my highschool, I've been doing Competition Programming for about 3 years now 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vienthanh12&show_icons=true&locale=en" alt="vienthanh12" /></p>
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vienthanh12&" alt="vienthanh12" /></p>
