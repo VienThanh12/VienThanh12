@@ -7,7 +7,7 @@
 
 👨‍💻 **Competition Programming**
 
-In high school, I've been doing Competition Programming (using Programming Language C/C++) for about 4 years at Da Nang high school for the gifted in Viet Nam, and I can confidently say that I've got a solid grasp of Algorithms and Data Structures, and problem-solving skills as well. But now when I've decided to dive into web development and explore a whole new world of coding! Time to gain some new insights and rock the web!
+In high school, I've been doing Competition Programming (using Programming Language **C/C++**) for about 4 years at Da Nang high school for the gifted in Viet Nam, and I can confidently say that I've got a solid grasp of Algorithms and Data Structures, and problem-solving skills as well. But now when I've decided to dive into web development and explore a whole new world of coding! Time to gain some new insights and rock the web!
 
 ## 🏅 Achievements
 - 🤝 **Consolation prize** The Olympiad In Informatics of the Northern Coast of Vietnam (2021)
