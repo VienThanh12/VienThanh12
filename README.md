@@ -34,15 +34,15 @@ In high school, I've been doing Competition Programming for about 4 years at Da 
 - Languages:
   - HTML, CSS, Javascript
 - Framework:
-  - ReactJs
+  - ReactJS
 ### Back-End:
 - Language:
   - Node.js 
 - Framework:
     - Express.js
     - Mongoose
-### Database:
-- MongoDB 
+- Database:
+  - MongoDB 
 ### Testing
 - Unit testing
   
