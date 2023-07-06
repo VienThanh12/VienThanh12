@@ -5,7 +5,7 @@
 
 📚 Through my projects, code repositories, and collaborations, I hope to demonstrate my proficiency in various programming languages, frameworks, and tools. 
 
-👨‍💻 Competition Programming
+👨‍💻 **Competition Programming**
 
 In high school, I've been doing Competition Programming for about 4 years at Da Nang high school for the gifted in Viet Nam, and I can confidently say that I've got a solid grasp of Algorithms and Data Structures, and problem-solving skills as well. But now when I've decided to dive into web development and explore a whole new world of coding! Time to gain some new insights and rock the web!
 
