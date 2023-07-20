@@ -35,7 +35,7 @@ In high school, I've been doing Competition Programming (**using** **Programming
 ### Front-End: 
 - Languages:
   - HTML, CSS, Javascript
-- Framework:
+- Library:
   - ReactJS
 ### Back-End:
 - Language:
