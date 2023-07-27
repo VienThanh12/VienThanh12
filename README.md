@@ -46,7 +46,7 @@ In high school, I've been doing Competition Programming (**using** **Programming
 - Database:
   - MongoDB 
 ### Testing
--  Integration tests, Unit testing (Node, React Application, and Testing the Backend)
+-  E2E testing, Integration tests, Unit testing (Node, React Application, and Testing the Backend)
 ### Utilities:
 - Render.com, Fly.io, MongoDB Atlas
   
