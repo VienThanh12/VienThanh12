@@ -37,6 +37,8 @@ In high school, I've been doing Competition Programming (**using** **Programming
   - HTML, CSS, Javascript
 - Library:
   - ReactJS
+- Frameworks:
+  - Redux 
 ### Back-End:
 - Language:
   - Node.js 
