@@ -54,8 +54,6 @@ In high school, I've been doing Competition Programming (**using** **Programming
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vienthanh12&show_icons=true&locale=en&layout=compact" alt="vienthanh12" /></p>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vienthanh12&show_icons=true&locale=en" alt="vienthanh12" /></p> 
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vienthanh12&" alt="vienthanh12" /></p>
