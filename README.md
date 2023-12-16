@@ -54,7 +54,8 @@ In high school, I've been doing Competition Programming (**using** **Programming
 - Integration tests, Unit testing (Node, React Application, and Testing the Backend) (Jest)
 ### Utilities:
 - Render.com, Fly.io, MongoDB Atlas
-  
+### Version Control
+- Git
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vienthanh12&show_icons=true&locale=en&layout=compact" alt="vienthanh12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vienthanh12&show_icons=true&locale=en" alt="vienthanh12" /></p> 
