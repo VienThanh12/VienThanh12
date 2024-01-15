@@ -56,6 +56,13 @@ In high school, I've been doing Competition Programming (**using** **Programming
 - Render.com, Fly.io, MongoDB Atlas
 ### Version Control
 - Git
+
+# Automation
+- PLC Programming Software (Programmable Logic Controllers): Siemens
+- CAD Software (Computer-Aided Design): TwinCat
+- HMI Development Tools (Human-Machine Interface): 3D CAD
+- Simulation and Modeling Tools: MATLAB
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vienthanh12&show_icons=true&locale=en&layout=compact" alt="vienthanh12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vienthanh12&show_icons=true&locale=en" alt="vienthanh12" /></p> 
