@@ -57,7 +57,7 @@ In high school, I've been doing Competition Programming (**using** **Programming
 ### Version Control
 - Git
 
-# Automation
+### Automation
 - PLC Programming Software (Programmable Logic Controllers): Siemens
 - CAD Software (Computer-Aided Design): TwinCat
 - HMI Development Tools (Human-Machine Interface): 3D CAD
