@@ -59,7 +59,7 @@ In high school, I've been doing Competition Programming (**using** **Programming
 
 ### Automation
 - Hardware devices: 
-- PLC Programming Software (Programmable Logic Controllers): Siemens
+- PLC Programming Software (Programmable Logic Controllers): Siemens TIA Portal
 - CAD Software (Computer-Aided Design): TwinCat
 - HMI Development Tools (Human-Machine Interface): 3D CAD
 - Simulation and Modeling Tools: MATLAB
