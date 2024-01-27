@@ -40,7 +40,9 @@ In high school, I've been doing Competition Programming (**using** **Programming
   - ReactJS
   - Redux
 - Tools:
-  - Vite.js 
+  - Vite.js
+- Framework:
+  - Bootstrap
 ### Back-End:
 - Language:
   - Node.js 
