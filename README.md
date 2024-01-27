@@ -48,7 +48,7 @@ In high school, I've been doing Competition Programming (**using** **Programming
     - Express.js
     - Mongoose
 - Database:
-  - MongoDB 
+  - MongoDB, SQL
 ### Testing
 - E2E testing (Cypress)
 - Integration tests, Unit testing (Node, React Application, and Testing the Backend) (Jest)
