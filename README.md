@@ -42,7 +42,7 @@ In high school, I've been doing Competition Programming (**using** **Programming
 - Tools:
   - Vite.js
 - Framework:
-  - Bootstrap
+  - React Bootstrap
 ### Back-End:
 - Language:
   - Node.js 
