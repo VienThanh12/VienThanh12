@@ -60,6 +60,10 @@ But now when I've decided to dive into web development and explore a whole new w
 ### Version Control
 - Git
 
+### Artificial intelligence
+- Large Lanugae Model
+- Fine-tuning
+- Benchmark
 ### Automation
 - Hardware devices: Microcontrollers, Arduino
 - PLC Programming Software (Programmable Logic Controllers): Siemens TIA Portal
