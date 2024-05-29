@@ -44,6 +44,8 @@ But now when I've decided to dive into web development and explore a whole new w
   - Vite.js
 - Framework:
   - React Bootstrap
+  - Next.js
+  - Typescript
 ### Back-End:
 - Language:
   - Node.js 
@@ -64,6 +66,8 @@ But now when I've decided to dive into web development and explore a whole new w
 - Large Lanugae Model
 - Fine-tuning
 - Benchmark
+- RAG (Retrieve Augmented Generation)
+- GenAI
 ### Automation
 - Hardware devices: Microcontrollers, Arduino
 - PLC Programming Software (Programmable Logic Controllers): Siemens TIA Portal
