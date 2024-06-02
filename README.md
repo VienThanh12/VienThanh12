@@ -39,6 +39,7 @@ But now when I've decided to dive into web development and explore a whole new w
   - HTML, CSS, Javascript
 - Library:
   - ReactJS
+  - Material UI
   - Redux
 - Tools:
   - Vite.js
