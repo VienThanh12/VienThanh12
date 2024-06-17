@@ -69,6 +69,10 @@ But now when I've decided to dive into web development and explore a whole new w
 - Benchmark
 - RAG (Retrieve Augmented Generation)
 - GenAI
+
+### Know
+- Next.js, Typescript, Kubernetes
+
 ### Automation
 - Hardware devices: Microcontrollers, Arduino
 - PLC Programming Software (Programmable Logic Controllers): Siemens TIA Portal
