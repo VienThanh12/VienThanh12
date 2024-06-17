@@ -61,7 +61,7 @@ But now when I've decided to dive into web development and explore a whole new w
 ### Utilities:
 - Render.com, Fly.io, MongoDB Atlas
 ### Version Control
-- Git
+- Git, Gitlab
 
 ### Artificial intelligence
 - Large Lanugae Model
