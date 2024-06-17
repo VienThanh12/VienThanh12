@@ -49,7 +49,7 @@ But now when I've decided to dive into web development and explore a whole new w
   - Typescript
 ### Back-End:
 - Language:
-  - Node.js 
+  - Node.js, Python (FastAPI, Flask)
 - Framework:
     - Express.js
     - Mongoose
