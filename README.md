@@ -1,7 +1,7 @@
 ### Welcome to my GitHub profile! 👋
 🚀 About Me
 
-🎓 I am Kevin, junior by year, senior by credit. Now I am living and studying in Finland. In my educational journey, I have maintained a GPA of 4.89/5 with 196/240 credits in total, reflecting my commitment to excellence. I believe that a good GPA shows that whatever you are doing, you always do it seriously, with your best efforts, even if it's just some school tests. Here, I embark on an exciting journey as I pursue my passion for automation engineering. 
+🎓 I am Kevin, junior by year, senior by credit. Now I am living and studying in Espoo, Finland. In my educational journey, I have maintained a GPA of 4.89/5 with 196/240 credits in total, reflecting my commitment to excellence. I believe that a good GPA shows that whatever you are doing, you always do it seriously, with your best efforts, even if it's just some school tests. Here, I embark on an exciting journey as I pursue my passion for automation engineering. 
 
 🌟 I’m currently interning at Nokia, and it’s been an incredible experience. As a young professional, my journey has just begun, and I’m thrilled that it started here. I’ve had the privilege of meeting people I deeply respect and will always remember. Moving forward, I’ll continue to follow the path and pursue the dreams I formulated during my time at Nokia. 
 
@@ -9,7 +9,7 @@
 
 👨‍💻 **Competition Programming**
 
-In high school, I've been doing Competition Programming (**using** **Programming Language** **C/C++**) for about 4 years at Da Nang high school for the gifted in Viet Nam, and I can confidently say that I've got a solid grasp of Algorithms and Data Structures, and problem-solving skills as well. I can confidently say that whatever language it is, I can learn it fast and am willing to learn new things. 
+When it's come to Competition Programming, it is my passion. I've been doing Competition Programming (**using** **Programming Language** **C/C++**) for about 5 years, and I can confidently say that I've got a solid grasp of Algorithms and Data Structures, and problem-solving skills as well. I can confidently say that whatever language it is, I can learn it fast and am willing to learn new things. 
 But now when I've decided to dive into web development and explore a whole new world of coding! Time to gain some new insights and rock the web!
 
 ## 🏅 Achievements
