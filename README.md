@@ -61,7 +61,7 @@ But now when I've decided to dive into web development and explore a whole new w
 - E2E testing (Cypress)
 - Integration tests, Unit testing (Node, React Application, and Testing the Backend) (Jest)
 ### Utilities:
-- Render.com, Fly.io, MongoDB Atlas
+- Render.com, Fly.io, MongoDB Atlas, Ubuntu(WSL2)
 ### Version Control
 - Git, Gitlab
 
@@ -71,7 +71,7 @@ But now when I've decided to dive into web development and explore a whole new w
 - Benchmark
 - RAG (Retrieve Augmented Generation)
 - GenAI
-
+- Raptor, Adaptor
 ### Know
 - Next.js, Typescript, Kubernetes
 
