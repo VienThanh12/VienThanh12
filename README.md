@@ -55,8 +55,10 @@ But now when I've decided to dive into web development and explore a whole new w
 - Framework:
     - Express.js
     - Mongoose
-- Database:
+### Database:
   - MongoDB, SQL
+### Devops
+- Containerization (Docker)
 ### Testing
 - E2E testing (Cypress)
 - Integration tests, Unit testing (Node, React Application, and Testing the Backend) (Jest)
