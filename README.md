@@ -6,6 +6,7 @@
 🌟 I’m currently interning at Nokia, and it’s been an incredible experience. 
 - Tech stack: Python for backend, React for Frontend (Some variations of React-style programming)
 - Creating better UI recipies to use GenAI/ LLM rountines.
+
 As a young professional, my journey has just begun, and I’m thrilled that it started here. I’ve had the privilege of meeting people I deeply respect and will always remember. Moving forward, I’ll continue to follow the path and pursue the dreams I formulated during my time at Nokia. 
 
 📚 Through my projects, code repositories, and collaborations, I hope to demonstrate my proficiency in various programming languages, frameworks, and tools. 
