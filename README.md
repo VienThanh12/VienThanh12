@@ -14,7 +14,7 @@ As a young professional, my journey has just begun, and I’m thrilled that it s
 
 📚 Through my projects, code repositories, and collaborations, I hope to demonstrate my proficiency in various programming languages, frameworks, and tools. 
 
-👨‍💻 **Competition Programming**
+👨‍💻 **Competitive Programming**
 
 When it's come to Competition Programming, it is my passion. I've been doing Competition Programming (**using** **Programming Language** **C/C++**) for about 5 years, and I can confidently say that I've got a solid grasp of Algorithms and Data Structures, and problem-solving skills as well. I can confidently say that whatever language it is, I can learn it fast and am willing to learn new things. 
 But now when I've decided to dive into web development and explore a whole new world of coding! Time to gain some new insights and rock the web!
