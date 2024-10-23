@@ -70,6 +70,11 @@ But now when I've decided to dive into web development and explore a whole new w
   - MongoDB, SQL
 ### Devops
 - Containerization (Docker)
+### Cloud
+- Microsoft Azure
+- Kubernetes
+- Containerization
+- AWS 
 ### Testing
 - E2E testing (Cypress)
 - Integration tests, Unit testing (Node, React Application, and Testing the Backend) (Jest)
