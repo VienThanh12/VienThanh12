@@ -72,8 +72,9 @@ But now when I've decided to dive into web development and explore a whole new w
 - Containerization (Docker)
 ### Cloud
 - Microsoft Azure
-- Kubernetes
+- Kubernetes (k8s)
 - Containerization
+- Docker
 - AWS 
 ### Testing
 - E2E testing (Cypress)
