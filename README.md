@@ -8,7 +8,7 @@
 🎓 I am Kevin, junior by year, senior by credit. Now I am living and studying in Espoo, Finland. In my educational journey, I have maintained a GPA of 4.89/5 with 211/240 credits in total, reflecting my commitment to excellence. I believe that a good GPA shows that whatever you are doing, you always do it seriously, with your best efforts, even if it's just some school tests. Here, I embark on an exciting journey as I pursue my passion for automation engineering. 
 
 🌟 I’m currently interning at Nokia, and it’s been an incredible experience. 
-- Tech stack: Python for backend, React for Frontend (Some variations of React-style programming)
+- Tech stack: Python for backend, React for Frontend (Some variations of React-style programming), and Docker. 
   
 As a young professional, my journey has just begun, and I’m thrilled that it started here. I’ve had the privilege of meeting people I deeply respect and will always remember. Moving forward, I’ll continue to follow the path and pursue the dreams I formulated during my time at Nokia. 
 
