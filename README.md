@@ -53,6 +53,7 @@ But now when I've decided to dive into web development and explore a whole new w
 - Library:
   - ReactJS
   - Material UI
+  - Ant Design
   - Redux
 - Tools:
   - Vite.js
