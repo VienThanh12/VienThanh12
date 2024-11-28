@@ -28,8 +28,8 @@ But now when I've decided to dive into web development and explore a whole new w
 - **Top 25%** out of 250+ projects in Junction 2024
 
 ## ⭐ Activities and societies: 
--   🥉 **Third Prize** Football with my teammates (A5 & B2 High School level)
--   🥉 **Bronze Medal** in Badminton tournament (Uni level)
+-   🥉 **Third Prize** Football ⚽️with my teammates (A5 & B2 High School level)
+-   🥉 **Bronze Medal** in Badminton🏸 tournament (Uni level)
 
 ## 📈 Stats
 
