@@ -24,9 +24,12 @@ But now when I've decided to dive into web development and explore a whole new w
 - 🥈 🤝 **Silver medal, Consolation prize** The Olympiad In Informatics in Central Highlands of Vietnam (2021, 2022)
 - 🥇 **First Prize** City excellent student (2022)
 - 🥈 **Second Prize** City information technology competition (2020, 2021, 2022)
+- **1st runner-up**, Silver Award 🥈 in the last round of the Project Management Championship Competition.
+- **Top 25%** out of 250+ projects in Junction 2024
 
 ## ⭐ Activities and societies: 
 -   🥉 **Third Prize** Football with my teammates (A5 & B2 High School level)
+-   🥉 **Bronze Medal** in Badminton tournament (Uni level)
 
 ## 📈 Stats
 
