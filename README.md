@@ -8,7 +8,7 @@
 🎓 I am Kevin. Now I am living and studying in Espoo, Finland. In my educational journey, I have maintained a GPA of 4.9/5 with 232/240 credits in total, reflecting my commitment to excellence. I believe that a good GPA shows that whatever you are doing, you always do it seriously, with your best efforts, even if it's just some school tests. Here, I embark on an exciting journey as I pursue my passion for automation engineering. 
 
 🌟 I’m currently interning at Nokia, and it’s been an incredible experience. I am dedicated to developing GenAI recipes and architectures to support them, sharing these with R&D to accelerate generative AI capabilities. This initiative aims to strengthen our collective intelligence and agility to better serve customer needs
-- Tech stack: Python for the backend, React for Frontend (Some variations of React-style programming), Docker, GenAI and LLMs. 
+- Tech stack: Python for the backend, React for Frontend (Some variations of React-style programming), Docker, GenAI, and LLMs. 
   
 As a young professional, my journey has just begun, and I’m thrilled that it started here. I’ve had the privilege of meeting people I deeply respect and will always remember. Moving forward, I’ll continue to follow the path and pursue the dreams I formulated during my time at Nokia. 
 
@@ -79,7 +79,8 @@ But now when I've decided to dive into web development and explore a whole new w
 - Kubernetes (k8s)
 - Containerization
 - Docker
-- AWS 
+- AWS
+- OpenStack
 ### Testing
 - E2E testing (Cypress)
 - Integration tests, Unit testing (Node, React Application, and Testing the Backend) (Jest)
