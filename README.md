@@ -96,6 +96,7 @@ But now when I've decided to dive into web development and explore a whole new w
 - RAG (Retrieve Augmented Generation)
 - GenAI
 - Raptor, Adaptor
+- Tensorflow, Pytorch
 ### Know
 - Next.js, Typescript, Kubernetes
 
@@ -107,6 +108,9 @@ But now when I've decided to dive into web development and explore a whole new w
 - Simulation and Modeling Tools: MATLAB
 - UI/ UX design
 - Embedded System (C/ C++)
+- Robotic Programming (Many types of Robotics)
+- Motion Control
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vienthanh12&show_icons=true&locale=en&layout=compact" alt="vienthanh12" /></p>
