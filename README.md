@@ -70,6 +70,7 @@ But now when I've decided to dive into web development and explore a whole new w
 - Framework:
     - Express.js
     - Mongoose
+    - Socket.io
 ### Database:
   - MongoDB, SQL
 ### Devops
