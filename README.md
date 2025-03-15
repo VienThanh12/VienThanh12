@@ -72,6 +72,8 @@ But now when I've decided to dive into web development and explore a whole new w
     - Mongoose
 - Library
     - Socket.io
+    - Microsoft Authentication Library (MSAL)
+    - SSO React 
 ### Database:
   - MongoDB, SQL
 ### Devops
