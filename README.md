@@ -5,14 +5,20 @@
 
 🚀 About Me
 
-🎓 I am Kevin. Now I am living and studying in Espoo, Finland. In my educational journey, I have maintained a GPA of 4.9/5 with 232/240 credits in total, reflecting my commitment to excellence. I believe that a good GPA shows that whatever you are doing, you always do it seriously, with your best efforts, even if it's just some school tests. Here, I embark on an exciting journey as I pursue my passion for automation engineering. 
+Hi, I’m Kevin — currently living and studying in Helsinki, Finland. I'm pursuing a Master's in Computer Science at the University of Helsinki, with a focus on intelligent systems, software architecture, and AI applications.
 
-🌟 I’m currently interning at Nokia, and it’s been an incredible experience. I am dedicated to developing GenAI recipes and architectures to support them, sharing these with R&D to accelerate generative AI capabilities. This initiative aims to strengthen our collective intelligence and agility to better serve customer needs
-- Tech stack: Python for the backend, React for Frontend (Some variations of React-style programming), Docker, GenAI, and LLMs. 
-  
-As a young professional, my journey has just begun, and I’m thrilled that it started here. I’ve had the privilege of meeting people I deeply respect and will always remember. Moving forward, I’ll continue to follow the path and pursue the dreams I formulated during my time at Nokia. 
+🌟 I'm currently a Software Engineer Intern at Nokia HQ in Finland, working in the Advanced Technology and Incubation Group. My role centers on designing and prototyping generative AI solutions using large language models (LLMs), supporting use cases like Retrieval-Augmented Generation (RAG). I also help build scalable, AI-powered tools and architectures that accelerate internal R&D.
 
-📚 Through my projects, code repositories, and collaborations, I hope to demonstrate my proficiency in various programming languages, frameworks, and tools. 
+As part of this work, I:
+
+Develop GenAI recipes and system architectures
+Share innovations with R&D teams to enhance collaboration and innovation
+Use a tech stack that includes Python (backend), React-style frameworks (frontend), Docker, LLMs, and other GenAI technologies
+This internship has been an incredible learning experience and a launchpad for my passion in automation engineering and AI.
+
+💡 I’m passionate about innovation, hands-on problem-solving, and collaboration. Through my projects, repositories, and partnerships, I aim to showcase my technical skills and curiosity in exploring new technologies.
+
+As I continue to grow in this field, I’m excited to connect with fellow professionals and tech enthusiasts in the AI and software engineering community. The journey is just beginning — and I’m all in.
 
 👨‍💻 **Competitive Programming**
 
