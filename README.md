@@ -5,20 +5,25 @@
 
 🚀 About Me
 
-Hi, I’m Kevin — currently living and studying in Helsinki, Finland. I'm pursuing a Master's in Computer Science at the University of Helsinki, with a focus on intelligent systems, software architecture, and AI applications.
+## 🚀 About Me
 
-🌟 I'm currently a Software Engineer Intern at Nokia HQ in Finland, working in the Advanced Technology and Incubation Group. My role centers on designing and prototyping generative AI solutions using large language models (LLMs), supporting use cases like Retrieval-Augmented Generation (RAG). I also help build scalable, AI-powered tools and architectures that accelerate internal R&D.
+👋 Hi, I’m **Kevin** — currently based in **Espoo, Finland**. I'm pursuing a **Master’s in Computer Science** at the University of Helsinki, focusing on intelligent systems, software architecture, and AI applications. I've maintained a **GPA of 4.9/5** with **232 out of 240 credits**, which reflects my commitment to quality and consistency in everything I do.
 
-As part of this work, I:
+🧠 I'm a **Software Engineer Intern at Nokia HQ**, working in the **Advanced Technology and Incubation Group**. My work involves designing and prototyping **Generative AI solutions** powered by **large language models (LLMs)**. I'm particularly focused on building systems that support advanced use cases like **Retrieval-Augmented Generation (RAG)** and other AI-driven research tools.
 
-Develop GenAI recipes and system architectures
-Share innovations with R&D teams to enhance collaboration and innovation
-Use a tech stack that includes Python (backend), React-style frameworks (frontend), Docker, LLMs, and other GenAI technologies
-This internship has been an incredible learning experience and a launchpad for my passion in automation engineering and AI.
+🔧 **What I work with:**
+- 🐍 Python (backend)
+- ⚛️ React-style frameworks (frontend)
+- 🐳 Docker
+- 🤖 GenAI & LLMs
 
-💡 I’m passionate about innovation, hands-on problem-solving, and collaboration. Through my projects, repositories, and partnerships, I aim to showcase my technical skills and curiosity in exploring new technologies.
+🌐 I contribute to **developing GenAI recipes and scalable architectures**, sharing these innovations across teams to enhance Nokia's R&D efforts and empower intelligent systems that better meet customer needs.
 
-As I continue to grow in this field, I’m excited to connect with fellow professionals and tech enthusiasts in the AI and software engineering community. The journey is just beginning — and I’m all in.
+🎓 Beyond work, I’m continuously learning and growing through personal projects, open-source contributions, and academic research. I see every challenge as an opportunity to improve — and every collaboration as a chance to create something meaningful.
+
+🤝 I'm always open to connecting with fellow tech enthusiasts, engineers, and innovators in the AI and software space. Let’s build something great together.
+
+📁 Feel free to explore my [projects](#) and [repositories](#) to see what I’ve been working on.
 
 👨‍💻 **Competitive Programming**
 
