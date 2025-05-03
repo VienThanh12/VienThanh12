@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">A passionate Full Stack Developer </h3>
 
-🚀 About Me
-
 ## 🚀 About Me
 
 👋 Hi, I’m **Kevin** — currently based in **Helsinki, Finland**. I'm pursuing a **Master’s in Computer Science** at the University of Helsinki, focusing on intelligent systems, software architecture, and AI applications. 
