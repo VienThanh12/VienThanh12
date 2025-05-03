@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-👋 Hi, I’m **Kevin** — currently based in **Helsinki, Finland**. I'm pursuing a **Master’s in Computer Science** at the University of Helsinki, focusing on intelligent systems, software architecture, and AI applications. I've maintained a **GPA of 4.9/5** with **232 out of 240 credits**, which reflects my commitment to quality and consistency in everything I do.
+👋 Hi, I’m **Kevin** — currently based in **Helsinki, Finland**. I'm pursuing a **Master’s in Computer Science** at the University of Helsinki, focusing on intelligent systems, software architecture, and AI applications. 
 
 🧠 I'm a **Software Engineer Intern at Nokia HQ**, working in the **Advanced Technology and Incubation Group**. My work involves designing and prototyping **Generative AI solutions** powered by **large language models (LLMs)**. I'm particularly focused on building systems that support advanced use cases like **Retrieval-Augmented Generation (RAG)** and other AI-driven research tools.
 
