@@ -23,7 +23,7 @@
 
 🤝 I'm always open to connecting with fellow tech enthusiasts, engineers, and innovators in the AI and software space. Let’s build something great together.
 
-📁 Feel free to explore my [projects](#) and [repositories](#) to see what I’ve been working on.
+📁 Feel free to explore my repositories to see what I’ve been working on.
 
 👨‍💻 **Competitive Programming**
 
