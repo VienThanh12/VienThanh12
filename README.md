@@ -112,9 +112,13 @@ But now when I've decided to dive into web development and explore a whole new w
 - Tensorflow, Pytorch
 
 LLMs: GPT, Claude, Llama, Mistral, Gemma
+
 Agent technologies: MCP
+
 Data: Python
+
 Cloud: AWS, GCP
+
 Infra: Docker. Kubernetes
 
 ### Know
