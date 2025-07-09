@@ -1,4 +1,4 @@
-### Welcome to my GitHub profile! 👋 I love you <3
+### Welcome to my GitHub profile! 👋 
 
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">A passionate Full Stack Developer </h3>
