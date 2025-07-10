@@ -13,7 +13,7 @@
 - 🐍 Python (backend)
 - ⚛️ React-style frameworks (frontend)
 - 🐳 Docker
-- 🤖 GenAI & LLMs
+- 🤖 GenAI & LLMs && AI Agents (n8n, mcp)
 
 🌐 I contribute to **developing GenAI recipes and scalable architectures**, sharing these innovations across teams to enhance Nokia's R&D efforts and empower intelligent systems that better meet customer needs.
 
@@ -106,20 +106,20 @@ But now when I've decided to dive into web development and explore a whole new w
 - Large Lanugae Model
 - Fine-tuning
 - Benchmark
-- RAG (Retrieve Augmented Generation)
+- RAG (Retrieve Augmented Generation, Chunking, Embedding, Re-rank)
 - GenAI
 - Raptor, Adaptor
 - Tensorflow, Pytorch
 
-LLMs: GPT, Claude, Llama, Mistral, Gemma
+LLMs: GPT, Claude, Llama, Mistral, Gemma, Grok
 
-Agent technologies: MCP
+Agent technologies: MCP (Server, Client), Tiny Agent, Intent-to-SQL
 
 Data: Python
 
 Cloud: AWS, GCP
 
-Infra: Docker. Kubernetes
+Infra: Docker, Podman, Kubernetes
 
 ### Know
 - Next.js, Typescript, Kubernetes
