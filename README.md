@@ -13,7 +13,7 @@
 - 🐍 Python (backend)
 - ⚛️ React-style frameworks (frontend)
 - 🐳 Docker
-- 🤖 GenAI & LLMs && AI Agents (n8n, mcp)
+- 🤖 GenAI & LLMs && AI Agents (n8n, mcp, function calling for AI agents, openAI agents SDK)
 
 🌐 I contribute to **developing GenAI recipes and scalable architectures**, sharing these innovations across teams to enhance Nokia's R&D efforts and empower intelligent systems that better meet customer needs.
 
