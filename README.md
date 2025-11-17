@@ -25,7 +25,7 @@
 
 👨‍💻 **Competitive Programming**
 
-Growing up in Vietnam, I was curious about technology and problem-solving since I was 14. This curiosity led me to competitive programming during high school, where I spent more than 5 years practicing my skills in C/C++, data structure, and algorithms over and over again. During this time, I solved over 2000 programming problems, participated in numerous contests, and earned several rewards, developing my passion for programming and building a strong foundation in computational thinking. I can confidently say that I've got a solid grasp of Algorithms and Data Structures, and problem-solving skills as well. I can confidently say that whatever language it is, I can learn it fast and am willing to learn new things. 
+Growing up in Vietnam, I was curious about technology and problem-solving since I was 14. This curiosity led me to competitive programming during high school, where I spent more than 5 years practicing my skills in C/C++, data structure, and algorithms over and over again. During this time, I solved over 2000 programming problems, participated in numerous contests, and earned several rewards, developing my passion for programming and building a strong foundation in computational thinking. I can confidently say that I've got a solid grasp of Algorithms and Data Structures, and problem-solving skills as well. Whatever language it is, I can learn it fast and am willing to learn new things. 
 But now when I've decided to dive into web development and explore a whole new world of coding! Time to gain some new insights and rock the web!
 
 ## 🏅 Achievements
