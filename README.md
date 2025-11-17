@@ -29,7 +29,7 @@ Growing up in Vietnam, I was curious about technology and problem-solving since 
 But now when I've decided to dive into web development and explore a whole new world of coding! Time to gain some new insights and rock the web!
 
 ## 🏅 Achievements
-- 🥈 2nd Place Challenge Partner at Junction 2025 — Europe’s biggest AI hackathon!
+- 🥈 **2nd Place** Challenge Partner at Junction 2025 — Europe’s biggest AI hackathon!
 - 🤝 **Consolation prize** The Olympiad In Informatics of the Northern Coast of Vietnam (2021)
 - 🥈 🤝 **Silver medal, Consolation prize** The Olympiad In Informatics in Central Highlands of Vietnam (2021, 2022)
 - 🥇 **First Prize** City excellent student (2022)
