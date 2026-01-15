@@ -40,7 +40,7 @@ But now when I've decided to dive into web development and explore a whole new w
 ## ⭐ Activities and societies: 
 -   🥉 **Third Prize** Football ⚽️ with my teammates (A5 & B2 High School level)
 -   🥉 **Bronze Medal** in Badminton 🏸 tournament (Uni level)
-
+-   I also enjoy playing chess. I’m rated 1600+ on Lichess and 1300+ on Chess.com. It may not be much, but I gave it my best.
 ## 📈 Stats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vienthanh12&label=Profile%20views&color=0e75b6&style=flat" alt="vienthanh12" /> </p>
