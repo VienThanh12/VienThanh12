@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm an **AI Engineer** at **Nokia HQ** in Finland with **2 years** of experience building generative AI systems, agentic applications, and intelligent automation. Currently part of **MI Core Networks**, in the **AI NC Knowledge Intel R&D** group focusing on AI R&D, I build AI-powered solutions that accelerate engineering workflows across complex telecom domains.
+I'm an **AI Engineer** at **Nokia HQ** in Finland with **2 years** of experience building generative AI systems, agentic applications, and intelligent automation. Currently part of **MI Core Networks**, contributing to **AI R&D** within the Knowledge Intelligence group, I build AI-powered solutions that accelerate engineering workflows across complex telecom domains.
 
 Alongside work, I'm pursuing a **Master's in Computer Science** at the **University of Helsinki** (Track: Software, GPA: 5/5), focusing on distributed systems, networking, and intelligent software architectures.
 
