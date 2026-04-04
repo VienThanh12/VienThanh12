@@ -37,7 +37,7 @@ I'm passionate about turning AI research into production-ready solutions, and I'
 - Red Hat Linux, Jira
 
 **Databases**
-- PostgreSQL, MongoDB, Redis, Graph Database, Alembic
+- PostgreSQL, MongoDB, Redis, Graph/ Vector Database, Alembic
 
 **CS Fundamentals**
 - Algorithms, Data Structures, OOP, Unit Testing, Distributed Systems, Software Architecture
