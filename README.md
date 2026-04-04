@@ -1,59 +1,122 @@
-### Welcome to my GitHub profile! 👋 
+<h1 align="center">Hi 👋, I'm Vien (Kevin) Ha</h1>
+<h3 align="center">AI Engineer @ Nokia | Master's in CS @ University of Helsinki</h3>
 
-<h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">A passionate Full Stack Developer </h3>
+<p align="center">
+  <a href="https://vienhaportfolio.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/vienha/">LinkedIn</a> •
+  <a href="https://github.com/VienThanh12">GitHub</a>
+</p>
 
 ## 🚀 About Me
 
-👋 Hi, I’m **Kevin** — currently based in **Helsinki, Finland**. I'm pursuing a **Master’s in Computer Science** at the University of Helsinki, focusing on intelligent systems, software architecture, and AI applications. 
+I'm an **AI Engineer** at **Nokia HQ** in Finland with **2 years** of experience building generative AI systems, agentic applications, and intelligent automation. Currently part of **MI Core Networks**, in the **AI NC Knowledge Intel R&D** group focusing on AI R&D, I build AI-powered solutions that accelerate engineering workflows across complex telecom domains.
 
-🧠 I'm a **Software Engineer Intern at Nokia HQ**, working in the **Advanced Technology and Incubation Group**. My work involves designing and prototyping **Generative AI solutions** powered by **large language models (LLMs)**. I'm particularly focused on building systems that support advanced use cases like **Retrieval-Augmented Generation (RAG)** and other AI-driven research tools.
+Alongside work, I'm pursuing a **Master's in Computer Science** at the **University of Helsinki** (Track: Software, GPA: 5/5), focusing on distributed systems, networking, and intelligent software architectures.
 
-🔧 **What I work with:**
-- 🐍 Python (backend)
-- ⚛️ React-style frameworks (frontend)
-- 🐳 Docker
-- 🤖 GenAI & LLMs && AI Agents (n8n, mcp, function calling for AI agents, openAI agents SDK)
+I'm passionate about turning AI research into production-ready solutions, and I'm always open to connecting with fellow engineers and innovators in the AI space.
 
-🌐 I contribute to **developing GenAI recipes and scalable architectures**, sharing these innovations across teams to enhance Nokia's R&D efforts and empower intelligent systems that better meet customer needs.
+## 🔧 What I Work With
 
-🎓 Beyond work, I’m continuously learning and growing through personal projects, open-source contributions, and academic research. I see every challenge as an opportunity to improve — and every collaboration as a chance to create something meaningful.
+**AI & GenAI**
+- GenAI, LLMs, RAG, Neural Networks, Machine Learning
+- AI Agents: OpenAI Agents SDK, MCP, Function Calling, Agno, Tiny Agent
+- Multi-agent orchestration, Anthropic Claude, Spatial AI
 
-🤝 I'm always open to connecting with fellow tech enthusiasts, engineers, and innovators in the AI and software space. Let’s build something great together.
+**Languages**
+- Python, TypeScript/JavaScript, C/C++, C#
 
-📁 Feel free to explore my repositories to see what I’ve been working on.
+**Frontend**
+- React, Next.js, Tailwind CSS, Ant Design
 
-👨‍💻 **Competitive Programming**
+**Backend**
+- FastAPI, Node.js, Express.js
 
-Growing up in Vietnam, I was curious about technology and problem-solving since I was 14. This curiosity led me to competitive programming during high school, where I spent more than 5 years practicing my skills in C/C++, data structure, and algorithms over and over again. During this time, I solved over 2000 programming problems, participated in numerous contests, and earned several rewards, developing my passion for programming and building a strong foundation in computational thinking. I can confidently say that I've got a solid grasp of Algorithms and Data Structures, and problem-solving skills as well. Whatever language it is, I can learn it fast and am willing to learn new things. 
-But now when I've decided to dive into web development and explore a whole new world of coding! Time to gain some new insights and rock the web!
+**Infrastructure & DevOps**
+- Docker, Kubernetes, CI/CD
+- Kong API Gateway, Keycloak, Grafana, Prometheus
+- Red Hat Linux, Jira
+
+**Databases**
+- PostgreSQL, MongoDB, Redis, Graph Database, Alembic
+
+**CS Fundamentals**
+- Algorithms, Data Structures, OOP, Unit Testing, Distributed Systems, Software Architecture
+
+## 💼 Experience
+
+**Nokia** | Internship | 2 yrs | Espoo, Finland
+
+- **AI A&D Engineering (MI CNS)** (Jan 2026 - Present)
+  - Developed **AI4Code**, an AI-powered agentic application designed to accelerate software engineering knowledge transfer across complex telecom product domains.
+
+- **AI A&D Engineering (CNS P&E)** (Aug 2025 - Jan 2026)
+  - Contributed to **Nokia AgentOS**, a lightweight orchestration layer built around the OpenAI Agents SDK, enabling complex agentic workflows with minimal code via YAML-based configuration and built-in/MCP tools.
+
+- **Software Engineer (CNS ET Advanced Technology & Incubation)** (May 2024 - Aug 2025)
+  - Designed and delivered GenAI architectures and reusable AI solutions, accelerating generative AI adoption across R&D.
+  - Maintained 100% business continuity for two production systems through proactive monitoring and rapid issue resolution.
+  - Delivered 10+ AI and automation initiatives, improving internal efficiency and decision-making.
+
+**Lockness Limited** | Software Engineer | 1 yr | Remote
+
+- Built a decentralized data labeling platform for machine learning, laying the groundwork for my transition into AI-focused engineering.
+
+## 🎓 Education
+
+**University of Helsinki** | Master of Science, Computer Science (Jun 2025 - Jul 2027)
+- GPA: 5/5 | Credits: 64/120 | Track: Software
+- Focus: Distributed Systems, Networking Technology, Software Architecture
+
+
+
+## 📜 Certifications
+
+- **DevOps with Kubernetes** | University of Helsinki (Jan 2026)
+- **Big Data Platforms** | University of Helsinki (Dec 2025)
+- And 12 more on [LinkedIn](https://www.linkedin.com/in/vienha/)
 
 ## 🏅 Achievements
-- 🥈 **2nd Place** Challenge Partner at Junction 2025 — Europe’s biggest AI hackathon!
-- 🤝 **Consolation prize** The Olympiad In Informatics of the Northern Coast of Vietnam (2021)
-- 🥈 🤝 **Silver medal, Consolation prize** The Olympiad In Informatics in Central Highlands of Vietnam (2021, 2022)
-- 🥇 **First Prize** City excellent student (2022)
-- 🥈 **Second Prize** City information technology competition (2020, 2021, 2022)
-- **1st runner-up**, Silver Award 🥈 in the last round of the Project Management Championship Competition.
-- **Top 25%** out of 250+ projects in Junction 2024
 
-## ⭐ Activities and societies: 
--   🥉 **Third Prize** Football ⚽️ with my teammates (A5 & B2 High School level)
--   🥉 **Bronze Medal** in Badminton 🏸 tournament (Uni level)
--   I also enjoy playing chess. I’m rated 1600+ on Lichess and 1300+ on Chess.com. It may not be much, but I gave it my best.
+- 🥈 **2nd Place** Challenge Partner at **Junction 2025** (Europe's biggest AI hackathon, 1500+ hackers, 111 countries)
+- 🏆 **SeAMK Scholarship** (Tapio Varmola's scholarship fund, May 2025)
+- 🥈 **1st Runner-up, Silver Award** in the Project Management Championship Competition
+- **Top 25%** out of 250+ projects at Junction 2024
+- 🥇 **First Prize** City excellent student (2022)
+- 🥈 **Silver Medal, Consolation Prize** Olympiad in Informatics, Central Highlands of Vietnam (2021, 2022)
+- 🤝 **Consolation Prize** Olympiad in Informatics, Northern Coast of Vietnam (2021)
+- 🥈 **Second Prize** City information technology competition (2020, 2021, 2022)
+
+## ⭐ Activities
+
+- 🥉 **Bronze Medal** in Badminton 🏸 tournament (Uni level)
+- 🥉 **Third Prize** Football ⚽ (A5 & B2 High School level)
+- ♟️ I also enjoy playing chess. I’m rated 1600+ on Lichess and 1300+ on Chess.com. It may not be much, but I gave it my best.
+
+
+## 👨‍💻 Competitive Programming
+
+Growing up in Vietnam, I was curious about technology and problem-solving since I was 14. This curiosity led me to competitive programming during high school, where I spent more than 5 years sharpening my skills in C/C++, data structures, and algorithms. During this time, I solved over 2000 programming problems, participated in numerous contests, and earned several awards. I can confidently say I've built a strong foundation in computational thinking and algorithms. Whatever the language, I learn it fast and am always eager to pick up new things.
+
 ## 📈 Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vienthanh12&label=Profile%20views&color=0e75b6&style=flat" alt="vienthanh12" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vienthanh12" alt="vienthanh12" /></a> </p>
-</a> </p>
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vienthanh12&label=Profile%20views&color=0e75b6&style=flat" alt="vienthanh12" />
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vienthanh12&show_icons=true&locale=en&layout=compact" alt="vienthanh12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vienthanh12&show_icons=true&locale=en" alt="vienthanh12" /></p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=VienThanh12" alt="VienThanh12" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vienthanh12&" alt="vienthanh12" /></p>
+<p>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=VienThanh12&show_icons=true&locale=en" alt="VienThanh12" />
+</p>
 
+<p>
+  <img src="https://streak-stats.demolab.com/?user=VienThanh12" alt="VienThanh12" />
+</p>
 
-
+<p>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=VienThanh12&show_icons=true&locale=en&layout=compact" alt="VienThanh12" />
+</p>
