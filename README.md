@@ -29,12 +29,12 @@ I'm passionate about turning AI research into production-ready solutions, and I'
 - React, Next.js, Tailwind CSS, Ant Design
 
 **Backend**
-- FastAPI, Node.js, Express.js
+- FastAPI, Node.js, Express.js, Python
 
 **Infrastructure & DevOps**
 - Docker, Kubernetes, CI/CD
 - Kong API Gateway, Keycloak, Grafana, Prometheus
-- Red Hat Linux, Jira
+- Red Hat Linux (OCP), Jira
 
 **Databases**
 - PostgreSQL, MongoDB, Redis, Graph/ Vector Database, Alembic
@@ -44,9 +44,9 @@ I'm passionate about turning AI research into production-ready solutions, and I'
 
 ## 💼 Experience
 
-**Nokia** | Internship | 2 yrs | Espoo, Finland
+**Nokia** | 2 yrs | Espoo, Finland
 
-- **AI A&D Engineering (MI CNS)** (Jan 2026 - Present)
+- **AI A&D Engineering (MI CNS | MI Core Network)** (Jan 2026 - Present)
   - Developed **AI4Code**, an AI-powered agentic application designed to accelerate software engineering knowledge transfer across complex telecom product domains.
 
 - **AI A&D Engineering (CNS P&E)** (Aug 2025 - Jan 2026)
@@ -64,7 +64,7 @@ I'm passionate about turning AI research into production-ready solutions, and I'
 ## 🎓 Education
 
 **University of Helsinki** | Master of Science, Computer Science (Jun 2025 - Jul 2027)
-- GPA: 5/5 | Credits: 64/120 | Track: Software
+- GPA: 5/5 | Credits: 69/120 | Track: Software
 - Focus: Distributed Systems, Networking Technology, Software Architecture
 
 
