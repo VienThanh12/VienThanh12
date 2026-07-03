@@ -90,7 +90,6 @@ I'm passionate about turning AI research into production-ready solutions, and I'
 
 - 🥉 **Bronze Medal** in Badminton 🏸 tournament (Uni level)
 - 🥉 **Third Prize** Football ⚽ (A5 & B2 High School level)
-- ♟️ I also enjoy playing chess. I’m rated 1600+ on Lichess and 1300+ on Chess.com. It may not be much, but I gave it my best.
 
 
 ## 👨‍💻 Competitive Programming
