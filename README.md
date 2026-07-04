@@ -64,7 +64,7 @@ I'm passionate about turning AI research into production-ready solutions, and I'
 ## 🎓 Education
 
 **University of Helsinki** | Master of Science, Computer Science (Jun 2025 - Jul 2027)
-- GPA: 5/5 | Credits: 69/120 | Track: Software
+- GPA: 5/5 | Credits: 91/120 | Track: Software
 - Focus: Distributed Systems, Networking Technology, Software Architecture
 
 
